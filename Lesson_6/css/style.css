@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+body {
+	font-family: 'lato', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	color: #424551;
+	line-height: 160%;
+}
+.wrapper{
+	max-width: 810px;
+	margin: 0 auto;
+}
+
+.title {
+	font-weight: 900;
+font-size: 46px;
+line-height: 130%;
+color: #1E212C;
+margin-bottom: 40px;
+margin-top: 25px;
+}
+.main {
+	margin-bottom: 24px;
+}
+.image {
+	margin-bottom: 60px;
+}
+.content-text {
+	margin-bottom: 48px;
+}
+.bold-text {
+	font-weight: 700;
+font-size: 20px;
+line-height: 150%;
+color: #1E212C;
+margin-bottom: 24px;
+}
+
+.text{
+	margin-bottom: 30px;
+}
+
+.text2{
+	margin-bottom: 48px;
+}
+
+.quote {
+	font-weight: 700;
+font-size: 20px;
+line-height: 150%;
+color: #1E212C;
+margin-left: 40px;
+}
+.content-list p{
+margin-bottom: 24px;
+}
+.list li{
+	margin-bottom: 4px;
+	height: 26px;
+	margin-left: 15px;
+}
+.list{
+	margin-bottom: 24px;
+}
+
+.up-button{
+text-align: right;
+}
+
+.button {
+	display: inline-block;
+border: solid 2px black;
+padding: 15px;
+border-radius: 10px;
+font-size: 20px;
+opacity: 0.4;
+box-shadow: 0 5px 15px #000;
+margin-bottom: 25px;
+}
